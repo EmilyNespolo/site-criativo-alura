@@ -3,6 +3,9 @@
     padding: 0;
 }
 
+body{
+    font-family: 'Belanosima', sans-serif;
+}
 
 .cabecalho {
     background-color: #f3cb18;
@@ -46,4 +49,8 @@
 
 .escola-titulo{
     padding: 24px 0;
+}
+
+.estudante-imagem{
+    width: 120px;
 }
